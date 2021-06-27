@@ -6,7 +6,7 @@
 * These Both Token Gen was made by - TheyCallMeFree & TheyCallMeAiden.
 * [Click Here](https://discord.gg/hackz) To Join Support Server!
 
-# HOW THIS IS NOT HARMFUL? 
+# HOW THIS TOOL IS HARMFUL FOR YOUR PC? 
 * This tool has a module called `Import Webhook` so the webhook module is detect in antivirus as a virus, we dont know why antivirus detects this module as a virus, do you have to turn off your antivirus to run this program or if we not import this webhook module the tool is not able to send tokens on the webhook.
 
 # YOUTUBE
