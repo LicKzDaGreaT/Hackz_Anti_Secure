@@ -1,13 +1,25 @@
-# PAID TOKEN GEN & DISCORD ALT MAKER
-* **Proxies Token Gen - it uses paid proxies and threading to make token with the speed of 1 token per second.**
-* **Root Token Gen - it runs normally with threading to make tokens with the speed of 1 token per 5 sec.**
+# TEAM HACKZ PRESSER BOT
+* **What is Hackz Presser Bot?**
+**This is a 24/7 Active Discord Nuke Bot which is Faster then other 24/7 Nuke Bots.**
 
-# HOW THIS TOOL IS HARMFUL FOR YOUR PC? 
-* **This tool has a module called `Import Webhook` so the webhook module is detect in antivirus as a virus, we dont know why antivirus detects this module as a virus, You have to turn off your antivirus to run this program or if we not import this webhook module the tool is not able to send tokens on the webhook.**
+# BOT COMMANDS
+* **All the bot commands are listed below!**
+1. **Bot Prefix is `$help`**
+2. **Spam Channel** : `$mc [name]`
+3. **Spam Masspings** : `$mp [msg]`
+4. **Spam Roles** : `$mr [name]`
+5. **Delete Channels** : `$cd`
+6. **Delete Roles** : `$rd`
+7. **Delete Emojis** : `$ed`
+8. **MassBan Members** : `$mb`
+9. **MassKick Members** : `$mk`
+10. **Full Nuke** : `$nuke [reason]`
 
-# YOUTUBE
-* **[Click Here](https://youtube.com/c/FreeDelaHoyaOp) To Check Official Youtube Channel.**
+# SHOWCASE
+![Help Cmd](https://media.discordapp.net/attachments/859400834404057098/859406527709970452/unknown.png)
+
+# ALL SUPPORT LINKS
+* [Hackz Presser Link](https://discord.com/api/oauth2/authorize?client_id=857562295139303445&permissions=8&scope=bot) | [Join Hackz](https://discord.gg/hackz) | [Subscribe Youtube](https://youtube.com/c/FreeDelaHoyaOp)
 
 # CREDITS
-* **These Both Token Gen was made by - TheyCallMeFree & TheyCallMeAiden.**
-* **[Click Here](https://discord.gg/hackz) To Join Support Server!**
+* **Coded by**  - `° TheyCallMeFree†#6969`, `° TheyCallMeRICHY#8888` & `Aidenʰᵃᶜᵏᶻ†#0188`
