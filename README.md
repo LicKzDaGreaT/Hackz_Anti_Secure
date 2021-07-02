@@ -1,5 +1,5 @@
-# TEAM HACKZ PRESSER BOT
-* **What is Hackz Presser Bot?**
+# HACKZ ANTI SECURE +
+* **What is Hackz Anti Secure?**
 **This is a 24/7 Active Discord Nuke Bot which is Faster then other 24/7 Nuke Bots.**
 
 # BOT COMMANDS
@@ -16,10 +16,10 @@
 10. **Full Nuke** : `$nuke [reason]`
 
 # SHOWCASE
-![Help Cmd](https://media.discordapp.net/attachments/859410729999269928/859414284185632778/GIF-210629_181328.gif) | ![Mass Channel](https://media.discordapp.net/attachments/859410729999269928/859414284501385246/GIF-210629_181416.gif) | ![Mass Pings](https://media.discordapp.net/attachments/859410729999269928/859414284857114634/GIF-210629_181501.gif)
+![Commands](https://media.discordapp.net/attachments/858686456909266946/860522950922338334/unknown.png?width=466&height=424)
 
 # ALL SUPPORT LINKS
-* [Hackz Presser Link](https://discord.com/api/oauth2/authorize?client_id=857562295139303445&permissions=8&scope=bot) | [Join Hackz](https://discord.gg/hackz) | [Subscribe Youtube](https://youtube.com/c/FreeDelaHoyaOp)
+* [Anti Secure + Invite Link](https://discord.com/oauth2/authorize?client_id=857562295139303445&scope=bot&permissions=8589934591) | [Join Hackz](https://discord.gg/hackz) | [Subscribe Youtube](https://youtube.com/c/FreeDelaHoyaOp)
 
 # CREDITS
 * **Coded by**  - `° TheyCallMeFree†#6969`, `° TheyCallMeRICHY#8888` & `Aidenʰᵃᶜᵏᶻ†#0188`
